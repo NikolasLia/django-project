@@ -8,14 +8,15 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
+	font-family: 'Lora', serif;
+}
+
+.nptext {
+	font-family: 'Kurale', serif;
 }
 
 .content {
     margin-left: 40px;
-}
-
-h1 a {
-    font-family: 'Lora', serif;
 }
 
 .date {
@@ -46,9 +47,10 @@ h1 a {
 
 .ptext {
 	font-size: 15pt;
-	font-family: 'Kurale', serif;;
+	font-family: 'Kurale', serif;
 }
 
 .post h1 a, .post h1 a:visited {
+	font-family: 'Lora', serif;
     color: #000000;
 }
